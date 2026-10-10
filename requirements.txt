@@ -1,0 +1,7 @@
+# Python dependencies for python/analysis.ipynb
+# Install with: pip install -r requirements.txt
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+ipykernel>=6.29
+notebook>=7.0
