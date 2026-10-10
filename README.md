@@ -7,6 +7,9 @@
 | **Assigned set** | Set A |
 | **Institute** | Red & White Skill Education |
 
+> ## 🎥 [**▶️ WATCH THE PROJECT EXPLANATION VIDEO**](https://drive.google.com/file/d/1ztCz6Az1ry2Bivlu9YA8yoNw1LxHSmQZ/view?usp=sharing)
+> _Click above for a full walkthrough of the project (also listed in Section 10)._
+
 ---
 
 ## 1. Business Objective
@@ -206,7 +209,7 @@ Prioritise **R4 Rural Feeder (Standard service)**, especially deliveries from th
 
 ## 10. Working Video
 
-- **URL:** _<add video link here>_
+- **URL:** [Project explanation video](https://drive.google.com/file/d/1ztCz6Az1ry2Bivlu9YA8yoNw1LxHSmQZ/view?usp=sharing)
 - **Duration:** _<add duration, e.g. 4 min 30 s>_
 
 ---
